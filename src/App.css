@@ -13,19 +13,22 @@
   }
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+/* Add any additional styles for your chat application here */
+.chat-container {
+  background-color: #f0f0f0;
+  padding: 20px;
 }
 
-.App-link {
-  color: #61dafb;
+.message-list {
+  max-height: 500px;
+  overflow-y: auto;
+  padding: 10px 0;
+}
+
+.message-input {
+  font-size: 16px;
+  padding: 10px;
+  border: 1px solid #ccc;
 }
 
 @keyframes App-logo-spin {

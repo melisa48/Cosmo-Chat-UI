@@ -1,0 +1,61 @@
+{
+     "sessions": [
+       {
+         "id": 1,
+         "date": "Apr 1, 2023",
+         "chats": [
+           {
+             "user": "Hello, I'm looking for some career advice.",
+             "Rex": "Hi there! I'd be happy to help. What kind of career advice are you looking for?"
+           },
+           {
+             "user": "I'm not sure what career path I should pursue. Can you give me some guidance?",
+             "Rex": "Okay, let's take a look at your skills, interests, and goals. That will help me provide some tailored advice."
+           },
+           {
+             "user": "That sounds great, thanks!",
+             "Rex": "Wonderful, let's get started. First, tell me a bit about your background and what kind of work you enjoy."
+           }
+         ],
+         "isSessionEnded": false
+       },
+       {
+         "id": 2,
+         "date": "Apr 5, 2023",
+         "chats": [
+           {
+             "user": "Hi Rex, I'm feeling stuck in my current job. Can you help me explore some new career options?",
+             "Rex": "Absolutely, I'd be happy to help. What kind of work are you interested in exploring?"
+           },
+           {
+             "user": "I'm not sure, to be honest. I just know I want a change.",
+             "Rex": "Okay, no problem. Let's start by discussing your skills, interests, and values. That will give us a better idea of the types of roles that might be a good fit for you."
+           },
+           {
+             "user": "That sounds like a good plan. Where should we start?",
+             "Rex": "Great, let's begin by having you fill out a short questionnaire about your background and preferences. That will give me the information I need to provide personalized career recommendations."
+           }
+         ],
+         "isSessionEnded": false
+       },
+       {
+         "id": 3,
+         "date": "Apr 10, 2023",
+         "chats": [
+           {
+             "user": "Hi Rex, I'm feeling really lost when it comes to my career. Can you help me figure out the next steps?",
+             "Rex": "I'm sorry to hear you're feeling lost. Don't worry, I'm here to help. Let's start by discussing your current situation and what you're hoping to achieve."
+           },
+           {
+             "user": "Well, I've been in the same job for 10 years and I'm just not passionate about it anymore. I want to do something more fulfilling, but I'm not sure what that is.",
+             "Rex": "I see. It sounds like you're ready for a change, but you're unsure of the right direction. That's a common challenge, but we can work through it together. First, let's explore your interests, skills, and values to get a better sense of the types of roles that might be a good fit."
+           },
+           {
+             "user": "Okay, that sounds like a good plan. Where do we start?",
+             "Rex": "Great, let's begin by having you fill out a short questionnaire about your background and preferences. That will give me the information I need to provide personalized career recommendations."
+           }
+         ],
+         "isSessionEnded": true
+       }
+     ]
+   }
